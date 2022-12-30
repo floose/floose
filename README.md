@@ -57,7 +57,7 @@ Thus, this Github is meant to be a profile where I can show you some of my works
  - Communication Systems
  - Data Analysis
 
-## Languages
+## Languages🌎
 
  - Português (native)
  - English
