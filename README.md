@@ -49,6 +49,11 @@ Thus, this Github is meant to be a profile where I can show you some of my works
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  alt="Java"  target="_blank"  height="60px"/>
 <div>
 
+ ## Languages in Training
+ <div>
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="Csharp"  target="_blank"  height="60px"/>
+  <div>
+ 
 ## Fields of Interest :books:
 
  - Digital Signal Processing
