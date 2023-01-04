@@ -31,7 +31,7 @@ I have a Ph.D. in Electrical Engineering. My thesis was on the development of hy
 <img  src="https://liberconference.eu/wp-content/uploads/2019/04/IEEE-XploreDigitalLibrary.jpg"  alt="IEEE"  target="_blank"  height="40px"></a>
 
 # About myself 🇧🇷
-I was born in the south region of Brazil, where I completed all my academic degrees in the Federal University of Santa Maria. Nowadays, I am currently living in Spain.
+I was born in the south region of Brazil, where I completed all my academic degrees in the Federal University of Santa Maria. Nowadays, I am currently living in Spain 🇪🇸.
 
 As an electrical engineer, I am always curious about how the areas of engineering are intertwined. Hence, during my academic carreer, I decided to follow a more generic path in order to develop a strong skillset of mathematics, physics and systems.
 
@@ -49,7 +49,7 @@ Thus, this Github is meant to be a profile where I can show you some of my works
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  alt="Java"  target="_blank"  height="60px"/>
 <div>
 
- ## Languages in Training 📥
+ ## Languages in Training 📖
  <div>
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="Csharp"  target="_blank"  height="60px"/>
   <div>
