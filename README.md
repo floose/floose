@@ -20,8 +20,6 @@ I have a Ph.D. in Electrical Engineering. My thesis was on the development of hy
 
 ✉️ Email for contact: felipe.loose@gmail.com
 
-📄  **[Link to my resume.](https://www.dropbox.com/s/x47i0iyf6b3mhyc/cv-Felipe-Loose-Resume-2023-1page.pdf?dl=0)</a>**
-
 **You can also check my other professional profiles below ⤵️**
 
 <div>
