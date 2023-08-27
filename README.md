@@ -35,7 +35,7 @@ I was born in the south region of Brazil, where I completed all my academic degr
 
 As an electrical engineer, I am always curious about how the areas of engineering are intertwined. Hence, during my academic carreer, I decided to follow a more generic path in order to develop a strong skillset of mathematics, physics and systems.
 
-I pursued both my master and my PhD degrees in power electronics, with emphasis in LED drivers and visible light communications. It provided me with a research field full of interdisciplinary challenges, where I could put my mathematical skill to the test. From communications theory to control systems, from analog electronics to digital signal processing, I was able to work with several technologies and theories that enabled me doing the things that I do now.
+I pursued both my master and my PhD degrees in power electronics, with emphasis in LED drivers and visible light communications. It provided me with a research field full of interdisciplinary challenges, where I could put my mathematical skills to the test. From communications theory to control systems, from analog electronics to digital signal processing, I was able to work with several technologies and theories that enabled me doing the things that I do now.
 
 Thus, this Github is meant to be a profile where I can show you some of my works in my fields of interest. 
 
