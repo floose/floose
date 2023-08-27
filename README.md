@@ -20,7 +20,6 @@ I have a Ph.D. in Electrical Engineering. My thesis was on the development of hy
 
 ✉️ Email for contact: felipe.loose@gmail.com
 
-
 🔭 [My detailed CV here](https://drive.google.com/file/d/1uHbrNgfRByDrHvgYj5l9ZemjGlI2-JDh/view?usp=sharing)
 
 **You can also check my other professional profiles below ⤵️**
@@ -36,28 +35,26 @@ I was born in the south region of Brazil, where I completed all my academic degr
 
 As an electrical engineer, I am always curious about how the areas of engineering are intertwined. Hence, during my academic carreer, I decided to follow a more generic path in order to develop a strong skillset of mathematics, physics and systems.
 
-I pursued both my master and my PhD degrees in power electronics, with emphasis in LED drivers and visible light communications. It provided me with a research field full of interdisciplinary challenges. From communications theory to control systems, from analog electronics to digital signal processing, I was able to work with severall technologies and theories that enabled me doing the things that I do now.
+I pursued both my master and my PhD degrees in power electronics, with emphasis in LED drivers and visible light communications. It provided me with a research field full of interdisciplinary challenges, where I could put my mathematical skill to the test. From communications theory to control systems, from analog electronics to digital signal processing, I was able to work with several technologies and theories that enabled me doing the things that I do now.
 
 Thus, this Github is meant to be a profile where I can show you some of my works in my fields of interest. 
 
 ## Programming Skills 💻
 <div>
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"  alt="C"  target="_blank"  height="60px"/>
+<img  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  alt="Cpp"  target="_blank"  height="60px"/>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="Csharp"  target="_blank"  height="60px"/>
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/768px-Gnu-octave-logo.svg.png"  alt="Octave"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  alt="MATLAB"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  alt="LaTeX"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  alt="Python"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  alt="Java"  target="_blank"  height="60px"/>
 <div>
-
- ## Languages in Training 📖
- <div>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="Csharp"  target="_blank"  height="60px"/>
-  <div>
  
 ## Fields of Interest :books:
 
  - Digital Signal Processing
+ - Power Systems Analysis
  - Power Electronics
  - Control Systems
  - Communication Systems
