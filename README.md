@@ -20,7 +20,7 @@ I have a Ph.D. in Electrical Engineering. My thesis was on the development of hy
 
 ✉️ Email for contact: felipe.loose@gmail.com
 
-🔭 [My detailed CV here](https://drive.google.com/file/d/1uHbrNgfRByDrHvgYj5l9ZemjGlI2-JDh/view?usp=sharing)
+🔭 [My detailed CV here]([https://drive.google.com/file/d/1uHbrNgfRByDrHvgYj5l9ZemjGlI2-JDh/view?usp=sharing](https://drive.google.com/file/d/1EDyMCqz71zhwJcyY0iSHV1mCQJQtn0MG/view?usp=sharing))
 
 **You can also check my other professional profiles below ⤵️**
 
@@ -37,7 +37,9 @@ As an electrical engineer, I am always curious about how the areas of engineerin
 
 I pursued both my master and my PhD degrees in power electronics, with emphasis in LED drivers and visible light communications. It provided me with a research field full of interdisciplinary challenges, where I could put my mathematical skills to the test. From communications theory to control systems, from analog electronics to digital signal processing, I was able to work with several technologies and theories that enabled me doing the things that I do now.
 
-Thus, this Github is meant to be a profile where I can show you some of my works in my fields of interest. 
+Nowadays, I focus my efforts as a **solutions architect** for software applications turned for the power sector, merging machine learning, power systems and signal processing all together to enhance grid visibility and efficiency.
+
+Finally, this Github is meant to be a profile where I can show you some of my works in my fields of interest. 
 
 ## Programming Skills 💻
 <div>
