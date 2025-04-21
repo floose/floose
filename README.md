@@ -28,8 +28,8 @@ I have a Ph.D. in Electrical Engineering. My thesis was on the development of hy
 <a  href="https://ieeexplore.ieee.org/author/37085667839"  target="_blank">
 <img  src="https://liberconference.eu/wp-content/uploads/2019/04/IEEE-XploreDigitalLibrary.jpg"  alt="IEEE"  target="_blank"  height="40px"></a>
 
-# About myself 🇧🇷
-I was born in the south region of Brazil, where I completed all my academic degrees in the Federal University of Santa Maria. Nowadays, I am currently living in Spain 🇪🇸.
+# About myself 
+I was born in the south region of Brazil, where I completed all my academic degrees in the Federal University of Santa Maria. Nowadays, I am currently living in Spain.
 
 As an electrical engineer, I am always curious about how the areas of engineering are intertwined. Hence, during my academic carreer, I decided to follow a more generic path in order to develop a strong skillset of mathematics, physics and systems.
 
