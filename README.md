@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to my Github 💡
 Hello, my name is Felipe.
-I am an electrical engineer with experience in power electronics, signal processing and control systems.
+I am an electrical engineer with experience in power electronics, power systems, signal processing and control systems.
 I have a Ph.D. in Electrical Engineering. My thesis was on the development of hybrid dc-dc converters for LED lighting with visible light communication capabilities.
 
 ✉️ Email for contact: felipe.loose@gmail.com
