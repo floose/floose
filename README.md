@@ -41,10 +41,8 @@ Finally, this Github is meant to be a profile where I can show you some of my wo
 
 ## Programming Skills 💻
 <div>
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"  alt="C"  target="_blank"  height="60px"/>
 <img  src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  alt="Cpp"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="Csharp"  target="_blank"  height="60px"/>
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/768px-Gnu-octave-logo.svg.png"  alt="Octave"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  alt="MATLAB"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  alt="LaTeX"  target="_blank"  height="60px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  alt="Python"  target="_blank"  height="60px"/>
